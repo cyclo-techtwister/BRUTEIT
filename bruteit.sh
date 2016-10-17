@@ -13,7 +13,7 @@ echo "        |   \ |    _| | |  | |   | |   |  _|    | |     | |"
 echo "        | |  ||  |  \ | |__| |   | |   | |___  _| |_    | |"
 echo "        |___/ |__|___||______|   |_|   |_____||_____|   |_|${reset}"
 echo "         (c) 2016-2017 | https://github.com/cyclo-techtwister"
-echo "                  <<<- Author: ${yellow}::::Cyclo::::${reset} ->>>"
+echo "                  ${green}<<<-${reset} Author: ${yellow}::::Cyclo::::${reset} ${green}->>>${reset}"
 echo ""
 echo "Enter ${yellow}Passphrase length.${reset} ie. How many characters 4,6,11 ect.."
 read varpw
